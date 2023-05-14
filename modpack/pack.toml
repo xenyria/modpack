@@ -1,0 +1,13 @@
+name = "Xenyria Client Modpack"
+author = "Xenyria Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "13a591efae7a514876228713a1dbe212f4a7fcfb58d82db578bf837ca0c9648e"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.4"
