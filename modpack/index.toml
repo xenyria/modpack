@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
+hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/xeem.pw.toml"
-hash = "df1f66c5a5dc6e0c211b349ab3f0eb03a230eff020a6f4c849c81157823168d8"
+hash = "dded759b6ad8a0d54a174d206ab39851ea4dcbd376d0e59999399f9fa5ef36a4"
 metafile = true
 
 [[files]]
