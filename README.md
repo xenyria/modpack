@@ -36,14 +36,15 @@ You can join our Server on `play.xenyria.net`.
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [CTRL Q](https://modrinth.com/mod/ctrl-q)
-- [Cull Leaves](https://modrinth.com/mod/cull-leaves)
+- ~~[Cull Leaves](https://modrinth.com/mod/cull-leaves)~~ _(waiting for 1.20 release)_
 - [Debugify](https://modrinth.com/mod/debugify)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
-- [Exordium](https://modrinth.com/mod/exordium)
+- ~~[Exordium](https://modrinth.com/mod/exordium)~~ _(waiting for 1.20 release)_
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fastload](https://modrinth.com/mod/fastload)
 - [Indium](https://modrinth.com/mod/indium)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Iris](https://modrinth.com/mod/iris)
 - [Krypton](https://modrinth.com/mod/krypton)
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -51,11 +52,9 @@ You can join our Server on `play.xenyria.net`.
 - [MidnightLib](https://modrinth.com/mod/midnightlib)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-- [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Starlight](https://modrinth.com/mod/starlight)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
-- [Xenyria Experience Enhancement Mod (XEEM)](https://modrinth.com/mod/xeem)
+- ~~[Xenyria Experience Enhancement Mod (XEEM)](https://modrinth.com/mod/xeem)~~ _(waiting for 1.20 release)_
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
