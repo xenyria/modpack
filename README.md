@@ -44,7 +44,6 @@ You can join our Server on `play.xenyria.net`.
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fastload](https://modrinth.com/mod/fastload)
 - [Indium](https://modrinth.com/mod/indium)
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Iris](https://modrinth.com/mod/iris)
 - [Krypton](https://modrinth.com/mod/krypton)
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -54,7 +53,7 @@ You can join our Server on `play.xenyria.net`.
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
-- ~~[Xenyria Experience Enhancement Mod (XEEM)](https://modrinth.com/mod/xeem)~~ _(waiting for 1.20 release)_
+- [Xenyria Experience Enhancement Mod (XEEM)](https://modrinth.com/mod/xeem)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
