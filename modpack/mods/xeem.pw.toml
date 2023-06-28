@@ -1,0 +1,13 @@
+name = "Xenyria Experience Enhancement Mod"
+filename = "XenyriaExperienceEnhancementMod-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1f8uP7d/versions/EE0EIetl/XenyriaExperienceEnhancementMod-1.1.0.jar"
+hash-format = "sha1"
+hash = "e56c4cf81d0689aebf1034404bc9266d2e8c43f3"
+
+[update]
+[update.modrinth]
+mod-id = "Y1f8uP7d"
+version = "EE0EIetl"

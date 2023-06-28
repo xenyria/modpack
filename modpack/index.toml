@@ -104,6 +104,11 @@ hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
 
 [[files]]
+file = "mods/xeem.pw.toml"
+hash = "9530aee262fa45996b49093c064e188ed4022da18d7f54288e3c6ed9b935ed50"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
 metafile = true
